@@ -1,0 +1,55 @@
+[
+  {
+    "category": "01",
+    "image": "https://i.ibb.co/5cx8P5P/products-winners-only-color-prescott-399360808-dpr14257-b1.jpg",
+    "name": "Connubia Rectangular Extendable Dining Table",
+    "location": "Dhaka",
+    "resalePrice": 509,
+    "originalPrice": 1430,
+    "usedYear": "2",
+    "postedTime": "2022-11-24",
+    "sellerName": "Miskatur Rahman",
+    "verified": true,
+    "condition": "Good"
+  },
+  {
+    "category": "02",
+    "image": "https://i.ibb.co/KjV3WRt/afeec73e5927643ad93a50c27a7be5d98bed0506.jpg",
+    "name": "The Inside Cerulean Frida Art Deco Queen Headboard",
+    "location": "Dhaka",
+    "resalePrice": 1100,
+    "originalPrice": 2430,
+    "usedYear": "2",
+    "postedTime": "2022-11-22",
+    "sellerName": "Aziz Mollah",
+    "verified": true,
+    "condition": "Good"
+  },
+  
+  {
+    "category": "03",
+    "image": "https://i.ibb.co/7Y9vPNN/reupholster-couch-720x405.jpg",
+    "name": "IKEA Lidhult Queen Sleeper Sofa",
+    "location": "Dhaka",
+    "resalePrice": 790,
+    "originalPrice": 1290,
+    "usedYear": "3",
+    "postedTime": "2022-11-24",
+    "sellerName": "Aziz Mollah",
+    "verified": true,
+    "condition": "Good"
+  },
+  {
+    "category": "04",
+    "image": "https://i.ibb.co/vJMPkrM/AFTER-main-min.jpg",
+    "name": "Theodore Alexander Carved Shield Back Dining Chairs",
+    "location": "Chittagong",
+    "resalePrice": 130,
+    "originalPrice": 250,
+    "usedYear": "2",
+    "postedTime": "2022-11-24",
+    "sellerName": "Khalid Shafiq",
+    "verified": true,
+    "condition": "Good"
+  }
+]

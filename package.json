@@ -1,9 +1,12 @@
 {
-  "name": "furniture-server",
+  "name": "wood-resel-server-site",
+  "owner": "Motahar Hossain",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -11,6 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "mongodb": "^5.6.0"
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.6.0",
+    "stripe": "^12.8.0"
   }
 }
